@@ -17,7 +17,7 @@ public class TwitchChatterDungeon : MonoBehaviour {
         // Set your credentials. If you're not planning on sending messages,
         // you can remove these lines.
         TwitchChatClient.singleton.userName = "PooleyDungeonBot";
-        TwitchChatClient.singleton.oAuthPassword = "oauth:gmxqedumbs7t7fzix3exb150gpjldd";
+        TwitchChatClient.singleton.oAuthPassword = "oauth:~~~~~~~~~~~~";
         // Join some channels.
         TwitchChatClient.singleton.JoinChannel("mrpooley92");
         // If you set your credentials and you'd like to receive whispers,
